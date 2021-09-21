@@ -1,0 +1,4 @@
+This is a file
+with some ([[n_lines]]) lines
+in it. It should stay so 
+after replacing [[values]]
